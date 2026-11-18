@@ -1,0 +1,35 @@
+AARAV SHARMA
+Bengaluru, India | +91-9876543210 | aarav.sharma.dev@example.com
+GitHub: github.com/aarav-ai-dev | LinkedIn: linkedin.com/in/aarav-sharma-dev
+
+SUMMARY
+Backend and AI developer specializing in Python, FastAPI, structured LLM outputs with Pydantic, and Retrieval-Augmented Generation (RAG) workflows.
+
+EDUCATION
+Master of Computer Applications (MCA) — NIT Allahabad (2024 – 2026) | CGPA: 8.6/10
+Bachelor of Computer Applications (BCA) — University of Lucknow (2021 – 2024) | CGPA: 8.4/10
+
+EXPERIENCE
+Backend & AI Intern | NexGen Data Systems (Jul 2025 – Feb 2026)
+- Built asynchronous REST APIs using FastAPI and Pydantic to validate and process incoming document payloads.
+- Integrated Groq API (Llama-3.3-70b) with JSON schema enforcement to extract structured metadata from unstructured PDFs, reducing manual review time by 60%.
+- Managed version control workflows using Git/GitHub and containerized microservices with Docker.
+
+PROJECTS
+Agentic Resume Screener & Matcher (Python, Groq SDK, Pydantic, FastAPI)
+- Built a two-stage candidate evaluation pipeline that parses raw resumes into validated Pydantic models and scores them against weighted HR job requirements.
+
+Enterprise Docs Q&A Assistant (Python, ChromaDB, FastAPI, REST API)
+- Developed a RAG pipeline using vector embeddings and semantic chunking to answer internal policy queries with source citations.
+
+TECHNICAL SKILLS
+- Languages: Python (3.12+), C++, SQL
+- Frameworks & Libraries: FastAPI, Pydantic, Groq SDK, LangChain
+- AI & Data: Prompt Engineering, Structured Outputs, RAG, ChromaDB, Vector Databases
+- Tools: Git, GitHub, Docker, REST APIs, Linux
+
+SOFT SKILLS
+Problem Solving, Analytical Thinking, Cross-Functional Collaboration, Technical Documentation
+
+CERTIFICATIONS
+- Applied Generative AI & LLM Engineering (2025)

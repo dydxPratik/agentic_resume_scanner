@@ -1,0 +1,62 @@
+{
+  "candidate_id": "CAND-2026-8841",
+  "personal_info": {
+    "full_name": "Aarav Sharma",
+    "email": "aarav.sharma.dev@example.com",
+    "phone": "+91-9876543210",
+    "location": "Bengaluru, India",
+    "github": "https://github.com/aarav-ai-dev",
+    "linkedin": "https://linkedin.com/in/aarav-sharma-dev"
+  },
+  "summary": "Backend and AI developer specializing in Python, FastAPI, structured LLM outputs with Pydantic, and Retrieval-Augmented Generation (RAG) workflows.",
+  "total_experience_years": 1.2,
+  "education": [
+    {
+      "degree": "Master of Computer Applications (MCA)",
+      "institution": "National Institute of Technology, Allahabad",
+      "graduation_year": 2026,
+      "cgpa": 8.6
+    },
+    {
+      "degree": "Bachelor of Computer Applications (BCA)",
+      "institution": "University of Lucknow",
+      "graduation_year": 2024,
+      "cgpa": 8.4
+    }
+  ],
+  "skills": {
+    "programming_languages": ["Python", "C++", "SQL"],
+    "frameworks_and_libraries": ["FastAPI", "Pydantic", "LangChain", "Groq SDK"],
+    "ai_and_llm": ["Prompt Engineering", "Structured Outputs", "RAG", "ChromaDB", "Vector Embeddings"],
+    "tools_and_devops": ["Git", "GitHub", "Docker", "REST APIs", "Linux"]
+  },
+  "work_experience": [
+    {
+      "role": "Backend & AI Intern",
+      "company": "NexGen Data Systems",
+      "duration_months": 8,
+      "start_date": "2025-07",
+      "end_date": "2026-02",
+      "responsibilities": [
+        "Built asynchronous REST APIs using FastAPI and Pydantic to process incoming document payloads.",
+        "Integrated Groq API (Llama-3.3-70b) with JSON schema enforcement to extract structured metadata from unstructured PDFs, reducing manual review time by 60%.",
+        "Managed version control workflows using Git and containerized microservices with Docker."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Agentic Resume Screener & Matcher",
+      "tech_stack": ["Python", "Groq", "Pydantic", "FastAPI"],
+      "description": "Developed an automated candidate evaluation pipeline that parses resumes into validated Pydantic models and scores them against weighted HR job descriptions."
+    },
+    {
+      "title": "Enterprise Docs Q&A Assistant",
+      "tech_stack": ["Python", "ChromaDB", "FastAPI", "REST API"],
+      "description": "Implemented a RAG pipeline using vector embeddings and semantic chunking to answer internal policy queries with source citations."
+    }
+  ],
+  "certifications": [
+    "Applied Generative AI & LLM Engineering (2025)"
+  ]
+}
